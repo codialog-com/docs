@@ -169,11 +169,10 @@ Aplikacja składa się z 4 okien w formie kratki, kolejno:
 3.Okno podglądu (dolne lewe) 
 4.Okno komunikacji  (dolne prawe)
   
-
-Tytuł CoDialog
-Analiza sematntyczna, stryuktura pracy 3-4 częsci,
-1. Teoria CoDialog, 15 stron
-Rozbija na definicje, 5 stron, słowa klucze, litertura
+```
+Tytuł: CoDialog
+Analiza sematntyczna, struktura pracy 3-4 częsci,
+1. Teoria CoDialog, rozbicie na definicje, słowa klucze, literturę
 1.2 analiza literatury
 1.3 problemy
 1.4 koncepcje, modele
@@ -218,3 +217,4 @@ Część projekcyjna
 7.3.3 Za projekt
 7.3.4 Opłata za rozwiązanie
 7.3.5 Opłata za abonament
+```   
