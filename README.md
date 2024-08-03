@@ -1,8 +1,7 @@
 # [Dokumentacja Codialog](http://docs.codialog.com)
 
+## CoDialog
 CoDialog to Uniwersalne Narzędzie wykorzystujące Data i Cloud Computing oraz Wirtualizację Zasobów na Maszynie Roboczej 
-
-## Tytuł CoDialog
 
 ### 1. Teoria CoDialog
 CoDialog to zaawansowane narzędzie zintegrowane z najnowszymi technologiami w zakresie dostępu do danych, cloud computing oraz wirtualizacji zasobów. Zastosowanie tych technologii pozwala na dostarczenie użytkownikom zjednoczonego interfejsu niezależnego od platformy i wielkości ekranu, umożliwiając korzystanie z zasobów i funkcji dotychczas niedostępnych lub ograniczonych.
