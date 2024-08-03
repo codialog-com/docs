@@ -150,3 +150,71 @@ W środowisku pracy, użytkownik będzie miał dostęp do czterech głównych ok
 4. **Okno Komunikacji (Dolne Prawe)**: Narzędzie do komunikacji głosowej i tekstowej z innymi użytkownikami.
 
 CoDialog, jako zjednoczone narzędzie, pozwala na efektywne zarządzanie danymi, zwiększa komfort pracy oraz integruje wiele funkcji i zasobów w jednym, spójnym środowisku.
+
+
+--- 
+
+
+
+
+CoDialog to uniwersalne narzędzie z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej. Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
+
+
+Dokument wedug wytycznych i punktów opisujący CoDialog jako uniwersalne narzędzie z wykorzystaniem dostępu do data i cloud computing oraz wirtualizacją zasobów na maszynie roboczej. Zuniifkowany interfejs niezależny od platformy i wielkości ekranu pozwoli cieszyć się zasobami i funkcjami dotychczas tam nie dostepnymi lub ograniczonymi.
+GUI zawiera kilka okienek do działań/operacji na wielu obiektach, plikach pobieranych z dysku/chmury oraz umożliwia komunikację głosową lub tekstową. 
+
+Aplikacja składa się z 4 okien w formie kratki, kolejno:
+1.Okno mediów (górne lewe)
+2.Okno Edycji (górne prawe)
+3.Okno podglądu (dolne lewe) 
+4.Okno komunikacji  (dolne prawe)
+  
+
+Tytuł CoDialog
+Analiza sematntyczna, stryuktura pracy 3-4 częsci,
+1. Teoria CoDialog, 15 stron
+Rozbija na definicje, 5 stron, słowa klucze, litertura
+1.2 analiza literatury
+1.3 problemy
+1.4 koncepcje, modele
+2. Metodologia  modele - sprzężenie zwrotne
+2.1 procesy
+2.2 mechanizmy
+2.3 metody badawcze
+3. badania
+3.1 struktura badania
+3.1.1 cele badawcze
+3.1.2 Plan Badania, workflow
+3.2 badanie
+3.2.1 Interview
+3.2.2 Empirical research - badanie empiryczne
+3.2.3 Symulacje
+3.2.4 Eksperyment
+3.3 Sprawdzenie rezultatów badania, Hipotez
+4. Projektowanie biokomputerów - na podstawie poprzednich części
+Część projekcyjna
+4.1 Rozwiązania problemów modeli części teoretycznej
+4.2 Propozycje
+4.3 Projekt
+5. Część Techniczna
+5.1 Specyfikacja.  Na podstawie projektu tworzy się  specyfikację
+5.2 Zasoby i Koszty - Bill of materials
+5.3 Produkcja/Wytwarzanie
+5.3.1 Środowisko do wytwarzania
+5.3.2 Wytwarzanie modułów
+5.4 Kompletacja systemu
+5.5 Testowanie systemu
+6. Wdrażanie
+6.1 Implementacja, budowa u klienta
+6.2 Wersjonowanie / Wersjalizacja
+6.3 Wsparcie techniczne
+6.4 Rozwój systemu
+7. Komercjalizacja
+7.1 Analiza przypadków
+7.2 Przyciąganie klientów, Działania marketingowe
+7.3 Opłata
+7.3.1 Opłata za usługę
+7.3.2 Za moduł
+7.3.3 Za projekt
+7.3.4 Opłata za rozwiązanie
+7.3.5 Opłata za abonament
